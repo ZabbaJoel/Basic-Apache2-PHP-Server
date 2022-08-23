@@ -1,0 +1,10 @@
+Time | IP Address: message
+August 13th 2022 12:33:08 PM | 127.0.0.1: Hello From the Server
+August 13th 2022 12:35:28 PM | 192.168.0.213: breezt
+August 13th 2022 12:38:05 PM | 192.168.0.213: Hello From Zivs Laptop
+August 13th 2022 12:39:19 PM | 192.168.0.164: Hello From Zivs Laptop on weissmannewhome wifi
+August 13th 2022 12:47:54 PM | 192.168.0.213: Hello world 
+August 13th 2022 03:16:13 PM | 192.168.0.164: just got back from the gym
+August 13th 2022 09:52:16 PM | 192.168.0.111: chicken chaloopa
+August 14th 2022 11:33:47 AM | 192.168.0.164: good morning ziv
+August 14th 2022 03:25:20 PM | 192.168.0.213: <h1>Hello Bros!!</h1>
